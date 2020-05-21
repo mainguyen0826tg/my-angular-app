@@ -1,0 +1,15 @@
+{
+  "/gdc": {
+      "target": "https://developer.na.gooddata.com",
+     
+      "changeOrigin": true,
+      "logLevel": "debug",
+      "cookieDomainRewrite": "localhost",
+      "secure": false,
+      
+      "headers": {
+          "host": "developer.na.gooddata.com", 
+          "origin": null
+      }
+  }
+}
